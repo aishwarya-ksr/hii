@@ -11,7 +11,7 @@ while(n!=0)
 {
 m=n%10;
 n=n/10;
-System.out.println(m);
+System.out.print(m);
 }
 }
 }
