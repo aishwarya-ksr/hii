@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 import java.util.Arrays;
-class Unique
+class unique
 {
 public static void main(String args[])
 {
